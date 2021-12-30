@@ -1,6 +1,6 @@
 BASIC HOROSCOPE API, V1
 
-This project is based off of the tutorial from https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/, with a few changes!
+This project is based off of the tutorial from https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/, with a few changes! 
 
 *Instead of sourcing my horoscopes from horoscope.com, I sourced them from cafeastrology.com. This involved adjusting the way I was scraping the site, to pick up and return exactly the text I wanted. 
 *Instead of daily/monthly/weekly APIs, my code includes APIs for "today" and "tomorrow"
